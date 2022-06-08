@@ -1,4 +1,5 @@
-Comandos:
+COMANDOS:
+
 dir - lista os repositórios;
 TAB - função de auto completar;
 
@@ -17,3 +18,8 @@ rmdir - remove a pasta (repositório); ex.: rmdir workspace /S /Q;
 ls -a - mostra repositórios ocultos;
 
 git remote -v Lista os repositórios;
+
+Alguns conceitos:
+
+SHA1 - algoritmo de encriptação; A encriptação gera um conjunto de caracteres identificador de 40 dígitos;
+SSH - Forma de estabelecer uma conexão segura entre duas máquinas;
