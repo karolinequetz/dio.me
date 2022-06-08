@@ -1,0 +1,19 @@
+Comandos:
+dir - lista os repositórios;
+TAB - função de auto completar;
+
+mkdir - cria nova pasta;
+
+echo - printa de nova uma frase no terminal;
+
+cls  - limpa o terminal;
+
+‘>’ - redireciona o fluxo para o arquivo, por exemplo, echo hello > hello.txt;
+
+del - deleta todo conteúdo da pasta;
+
+rmdir - remove a pasta (repositório); ex.: rmdir workspace /S /Q;
+
+ls -a - mostra repositórios ocultos;
+
+git remote -v Lista os repositórios;
